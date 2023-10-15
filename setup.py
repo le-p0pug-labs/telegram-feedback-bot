@@ -16,7 +16,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='telegram-feedback-bot',  # Required
     version=version,  # Required
-    description='Advanced multi-channel file-sharing tool',  # Optional
+    description='Telegram bot for feedback',  # Optional
     long_description=long_description,  # Optional
     long_description_content_type='text/markdown',  # Optional (see note above)
     url='https://github.com/le-p0pug-labs/telegram-feedback-bot',  # Optional
